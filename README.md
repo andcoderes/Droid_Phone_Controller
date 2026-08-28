@@ -44,9 +44,9 @@ work together and a basic end-to-end setup.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/C1-1OP.git
+   git clone https://github.com/andcoderes/Droid_Phone_Controller.git
    ```
-2. Open the `AndroidController` project in Android Studio.
+2. Open the project in Android Studio.
 3. Build and run the app on your Android device.
 
 ### Firebase (optional)
