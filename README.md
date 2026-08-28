@@ -23,6 +23,16 @@ Droid Controller is an Android application designed to control the C1-1OP (Chopp
 
 - Uses JSON messages over Bluetooth to communicate with the ESP32 receiver MCU.
 
+## Supported droids
+
+Most droids run a single all-in-one receiver firmware. **Grogu is different** —
+it has no audio hardware and its motion is split across two firmware boards
+(`grogu_mcu_receiver` for BLE + wheels, `grogu_servo_controller` for servo
+animatronics, linked over ESP-NOW).
+
+See **[docs/grogu-setup.md](docs/grogu-setup.md)** for how those two projects
+work together and a basic end-to-end setup.
+
 ## Getting Started
 
 ### Prerequisites
