@@ -21,7 +21,11 @@
     },
     {
         "macro":  "5",
-        "label":  "Food"
+        "label":  "Eating"
+    },
+    {
+        "macro":  "6",
+        "label":  "6 7"
     },
     {
         "macro":  "999",
