@@ -1,0 +1,15 @@
+[
+    {
+        "macro":"100",
+        "label": "Yes"
+    },{
+        "macro":"101",
+        "label":"No"
+    },{
+        "macro":"102",
+        "label":"Coffee Idle"
+    },{
+        "macro":"103",
+        "label":"Dance"
+    }
+]

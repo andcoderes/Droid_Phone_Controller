@@ -1,0 +1,94 @@
+﻿[
+    {
+        "macro":  "999",
+        "label":  "Stop"
+    },
+    {
+        "macro":  "47",
+        "label":  "Roger roger 2"
+    },
+    {
+        "macro":  "48",
+        "label":  "Roger roger 3"
+    },
+    {
+        "macro":  "49",
+        "label":  "Said hold it"
+    },
+    {
+        "macro":  "50",
+        "label":  "Scream"
+    },
+    {
+        "macro":  "51",
+        "label":  "Sir"
+    },
+    {
+        "macro":  "52",
+        "label":  "Stupid astro droid"
+    },
+    {
+        "macro":  "53",
+        "label":  "Surrender, Jedi"
+    },
+    {
+        "macro":  "54",
+        "label":  "They don\u0027t stand a chance"
+    },
+    {
+        "macro":  "55",
+        "label":  "This is a lot more fun when they don\u0027t shoot back"
+    },
+    {
+        "macro":  "56",
+        "label":  "This is not good"
+    },
+    {
+        "macro":  "57",
+        "label":  "This isn\u0027t going as planned"
+    },
+    {
+        "macro":  "58",
+        "label":  "Uh oh, we\u0027ve got company"
+    },
+    {
+        "macro":  "59",
+        "label":  "Uh oh"
+    },
+    {
+        "macro":  "60",
+        "label":  "Uh, well, it\u0027s my programming"
+    },
+    {
+        "macro":  "61",
+        "label":  "We\u0027ve got \u0027em outnumbered"
+    },
+    {
+        "macro":  "62",
+        "label":  "We\u0027ve got enemy forces in sector 4"
+    },
+    {
+        "macro":  "63",
+        "label":  "What should we do"
+    },
+    {
+        "macro":  "64",
+        "label":  "What was that again"
+    },
+    {
+        "macro":  "65",
+        "label":  "What was that"
+    },
+    {
+        "macro":  "66",
+        "label":  "What were my orders"
+    },
+    {
+        "macro":  "67",
+        "label":  "Yes"
+    },
+    {
+        "macro":  "68",
+        "label":  "You\u0027re welcome"
+    }
+]

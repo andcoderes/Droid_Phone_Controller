@@ -1,0 +1,30 @@
+[
+    {
+        "macro":  "0",
+        "label":  "Idle"
+    },
+    {
+        "macro":  "1",
+        "label":  "No"
+    },
+    {
+        "macro":  "2",
+        "label":  "Yes"
+    },
+    {
+        "macro":  "3",
+        "label":  "The Force"
+    },
+    {
+        "macro":  "4",
+        "label":  "Grab Me"
+    },
+    {
+        "macro":  "5",
+        "label":  "Food"
+    },
+    {
+        "macro":  "999",
+        "label":  "STOP"
+    }
+]
