@@ -15,17 +15,13 @@ end-to-end setup.
 
 ## The two firmware projects
 
-| Project | Folder | Board | Job |
+| Project | Repository | Board | Job |
 |---|---|---|---|
-| **`grogu_mcu_receiver`** | `grogu/receiver` | Seeed XIAO ESP32-C6 | BLE peripheral + wheels |
-| **`grogu_servo_controller`** | `grogu/motor_controller` | Bottango Impulse (ESP32, 10 servo headers) | Servo animatronics |
+| **`grogu_mcu_receiver`** | [andcoderes/grogu_mcu_receiver](https://github.com/andcoderes/grogu_mcu_receiver) | Seeed XIAO ESP32-C6 | BLE peripheral + wheels |
+| **`grogu_servo_controller`** | [andcoderes/grogu_servo_controller](https://github.com/andcoderes/grogu_servo_controller) | Bottango Impulse (ESP32, 10 servo headers) | Servo animatronics |
 
 Both are PlatformIO projects and live in their own repositories, separate from
-this app.
-
-> Repo URLs (adjust if yours differ):
-> `https://github.com/andcoderes/grogu_mcu_receiver` and
-> `https://github.com/andcoderes/grogu_servo_controller`.
+this app ([andcoderes/Droid_Phone_Controller](https://github.com/andcoderes/Droid_Phone_Controller)).
 
 ### `grogu_mcu_receiver` — BLE + wheels
 
